@@ -1,0 +1,10 @@
+# Dominio canónico: todo a noctambuloriginal.cl
+https://www.noctambuloriginal.cl/* https://noctambuloriginal.cl/:splat 301
+
+# Rutas antiguas de las páginas legales (.dc.html) → nuevas
+/legal/contacto.dc.html /legal/contacto.html 301
+/legal/preguntas-frecuentes.dc.html /legal/preguntas-frecuentes.html 301
+/legal/politica-privacidad.dc.html /legal/politica-privacidad.html 301
+/legal/politica-envios.dc.html /legal/politica-envios.html 301
+/legal/terminos-condiciones.dc.html /legal/terminos-condiciones.html 301
+/legal/cambios-devoluciones.dc.html /legal/cambios-devoluciones.html 301
